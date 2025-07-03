@@ -6,7 +6,7 @@
 
 
 📚 Follow my learning journey here on GitHub  
-📫 Let's connect on [LinkedIn](www.linkedin.com/in/annie-okwach-capm®-651a3b1a1)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/annie-okwach-capm®-651a3b1a1)
 [Email](okwachannie@gmail.com)
 
 Thanks for stopping by! 💻✨
