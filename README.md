@@ -30,8 +30,25 @@ PRATICAL APPLICATION OF GEN AI FOR PROJECT MANAGERS-PMI https://www.credly.com/b
 
 TRAINING
 
+REDI SCHOOL DENMARK CYBERSECURITY FUNDAMENTALS[Certificate of Participation - Ann Okwach.pdf](https://github.com/user-attachments/files/21779518/Certificate.of.Participation.-.Ann.Okwach.pdf)
+
+
 TATA-CYBERSECURITY ANALYST JOB SIMULATION https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_PzaQDv5PbLYMFXhMn_1752616795717_completion_certificate.pdf
 
+
+CAMPFIRE SECURITY DENMARK SUMMER SCHOOL TRAINING
+
+  [Linux Command Line and Kali.pdf](https://github.com/user-attachments/files/21779417/Linux.Command.Line.and.Kali.pdf)
+  
+  [Cyber Security Fundamentals.pdf](https://github.com/user-attachments/files/21779475/Cyber.Security.Fundamentals.pdf)
+  
+  [Insider Threats.pdf](https://github.com/user-attachments/files/21779481/Insider.Threats.pdf)
+  
+  [Real World Attacks in Denmark.pdf](https://github.com/userattachments/files/21779486/Real.World.Attacks.in.Denmark.pdf)
+
+
+
+  
 
 
 
