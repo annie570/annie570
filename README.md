@@ -11,9 +11,9 @@
 
 CERTIFICATIONS
 
-MICROSOFT CERTIFIED;Security,Compliance And Identity Fundamentals https://learn.microsoft.com/en-gb/credentials/certifications/security-compliance-and-identity-fundamentals/
+MICROSOFT CERTIFIED;Security,Compliance And Identity Fundamentals https://learn.microsoft.com/api/credentials/share/en-gb/AnnOkwach-5902/B7670AA5A4C88859?sharingId=FBBD2DBD81D48B64
 
-MICROSOFT CERTIFIED;Azure Fundamentals https://learn.microsoft.com/en-gb/credentials/certifications/azure-fundamentals/
+MICROSOFT CERTIFIED;Azure Fundamentals https://learn.microsoft.com/api/credentials/share/en-gb/AnnOkwach-5902/64BCDF40F7F0E83B?sharingId=FBBD2DBD81D48B64
 
 DIPLOMA IN CYBERSECURITY-ALISON https://alison.com/achievements
 
