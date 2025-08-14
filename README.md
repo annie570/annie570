@@ -15,7 +15,7 @@ MICROSOFT CERTIFIED;Security,Compliance And Identity Fundamentals https://learn.
 
 MICROSOFT CERTIFIED;Azure Fundamentals https://learn.microsoft.com/api/credentials/share/en-gb/AnnOkwach-5902/64BCDF40F7F0E83B?sharingId=FBBD2DBD81D48B64
 
-DIPLOMA IN CYBERSECURITY-ALISON https://alison.com/achievements
+DIPLOMA IN CYBERSECURITY-ALISON https://alison.com/certification/check/1c3bc45ee2
 
 INTRODUCTION TO CYBERSECURITY-CISCO https://www.credly.com/badges/ba6fb718-7b44-4475-8516-9a54392cedd1/linked_in_profile
 
