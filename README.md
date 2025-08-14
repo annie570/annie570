@@ -23,6 +23,13 @@ CYBERSECURITY FUNDAMENTALS-IBM https://www.credly.com/badges/6737b4e6-0227-484a-
 
 ARTIFICIAL INTELLIGENCE-IBM https://www.credly.com/badges/6064927f-3f98-4edc-9d4d-e8db8bdcabf4/linked_in_profile
 
+CERTIFIED ASSOCIATE IN PROJECT MANAGEMENT-PMI https://www.credly.com/badges/80b8136c-0826-4fe4-a5f5-549c60d2fa3f/linked_in_profile
+
+PRATICAL APPLICATION OF GEN AI FOR PROJECT MANAGERS-PMI https://www.credly.com/badges/13162db6-acbc-4777-93fc-0b1655886b71/linked_in_profile
+
+
+TRAINING
+TATA-CYBERSECURITY ANALYST JOB SIMULATION https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_PzaQDv5PbLYMFXhMn_1752616795717_completion_certificate.pdf
 
 
 
