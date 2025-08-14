@@ -29,6 +29,7 @@ PRATICAL APPLICATION OF GEN AI FOR PROJECT MANAGERS-PMI https://www.credly.com/b
 
 
 TRAINING
+
 TATA-CYBERSECURITY ANALYST JOB SIMULATION https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_PzaQDv5PbLYMFXhMn_1752616795717_completion_certificate.pdf
 
 
