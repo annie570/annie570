@@ -47,8 +47,10 @@ CAMPFIRE SECURITY DENMARK SUMMER SCHOOL TRAINING
   [Real World Attacks in Denmark.pdf](https://github.com/userattachments/files/21779486/Real.World.Attacks.in.Denmark.pdf)
 
 
-  
+IT Support Projects
 
+osTicket (Building a Help Desk Ticketing System
+  (osTicket: Prerequisites and Installation)
 
 
 
