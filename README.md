@@ -47,6 +47,17 @@ CAMPFIRE SECURITY DENMARK SUMMER SCHOOL TRAINING
   [Real World Attacks in Denmark.pdf](https://github.com/userattachments/files/21779486/Real.World.Attacks.in.Denmark.pdf)
 
 
+IT Support Projects:
+osTicket (Building a Help Desk Ticketing System)
+
+osTicket: Prerequisites and Installation 
+osTicket: Post-Installation Configuration 
+osTicket: Ticket Lifecycle & SLAs
+Microsoft Azure (Active Directory / DNS Configuration)
+
+Configuring On-premises Active Directory within Azure VMs 
+Network Security Groups (NSGs) and Inspecting Network Protocols
+Basic DNS Configuration & Testing
 
   
 
