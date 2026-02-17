@@ -2,11 +2,11 @@
 
 🎯 Aspiring cybersecurity professional  
 🔐 Learning through hands-on labs and real-world tools  
-💻 Currently exploring cloud security,access management,security fundamentals,Cyber risk management and compliance frameworks
+💻 Currently exploring IT Support,cloud security,access management,security fundamentals,Cyber risk management and compliance frameworks
 
 
 📚 Follow my learning journey here on GitHub  
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/annie-okwach-capm®-651a3b1a1)
+📫 Let's connect on [LinkedIn](www.linkedin.com/in/annie-okwach-651a3b1a1)
 [Email](okwachannie@gmail.com)
 
 CERTIFICATIONS
@@ -14,6 +14,8 @@ CERTIFICATIONS
 MICROSOFT CERTIFIED;Security,Compliance And Identity Fundamentals https://learn.microsoft.com/api/credentials/share/en-gb/AnnOkwach-5902/B7670AA5A4C88859?sharingId=FBBD2DBD81D48B64
 
 MICROSOFT CERTIFIED;Azure Fundamentals https://learn.microsoft.com/api/credentials/share/en-gb/AnnOkwach-5902/64BCDF40F7F0E83B?sharingId=FBBD2DBD81D48B64
+
+INFORMATION TECHNOLOGY FUNDAMENTALS-IBM https://www.credly.com/badges/50a1e937-3f47-447c-8ed0-c3cb523a64a6/public_url
 
 DIPLOMA IN CYBERSECURITY-ALISON https://alison.com/certification/check/1c3bc45ee2
 
@@ -46,11 +48,6 @@ CAMPFIRE SECURITY DENMARK SUMMER SCHOOL TRAINING
   
   [Real World Attacks in Denmark.pdf](https://github.com/userattachments/files/21779486/Real.World.Attacks.in.Denmark.pdf)
 
-
-IT Support Projects
-
-osTicket (Building a Help Desk Ticketing System
-  (osTicket: Prerequisites and Installation)
 
 
 
